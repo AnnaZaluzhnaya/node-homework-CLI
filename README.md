@@ -20,5 +20,6 @@ https://monosnap.com/file/XxKuVH9gdXr4lvr4bCvIJNgqDVMaRL
 
 
 # список контактов в виде таблицы после обновления списка 
+node index.js --action list
 
 https://monosnap.com/file/drkCEVgJjqVd2VPhOEJzWeE16krdrt
